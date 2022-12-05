@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Truc
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning on .Net platform
+- 🌱 I’m currently a computer science student
 - 📫 Reach me at truc.ngdev@gmail.com
 
 <!---
